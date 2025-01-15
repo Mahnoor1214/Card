@@ -1,2 +1,2 @@
-let username=7
+let username=7;
 console.log(username);
